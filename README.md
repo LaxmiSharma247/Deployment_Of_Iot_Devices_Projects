@@ -34,7 +34,7 @@ played, and the game restarts.
 </figure>
 
 ### Connection Diagram
-The diagram shows how the components are wired in the shield PCB:
+The diagram shows how the components are wired in the shield PCB (Printed Circuit Board):
 
 ![image](https://github.com/LaxmiSharma247/Deployment_Of_Iot_Devices_simon-with-score/assets/112362299/6dc87ca8-2e76-41c0-b102-e45de572d028)
 
